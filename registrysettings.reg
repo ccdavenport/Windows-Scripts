@@ -123,3 +123,9 @@
 
 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
 "HideFileExt"=dword:00000000
+
+
+;Disable PC is out of support message
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\EOSNotify]
+"DiscontinueEOS"=dword:00000001
