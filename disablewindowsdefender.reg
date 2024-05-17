@@ -1,7 +1,7 @@
 ; Disable windows defender
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
-"DisableAntiSpyware"dword:00000001
+"DisableAntiSpyware"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection]
 "DisableScanOnRealtimeEnable"=dword:00000001
