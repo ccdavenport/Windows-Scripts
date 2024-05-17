@@ -1,4 +1,4 @@
-These scripts assume you are running Windows 11 on an SSD. It is not recommended to use it on anything else.
+These are the scripts I use to disable power saving and telemetry on my Windows 11 install.
 I don't claim to have "found" any of these registry keys, they are just scripts I run when I perform an install of windows on my computer.
 
 Note: after disabling windows defender, open MinSudo and type
